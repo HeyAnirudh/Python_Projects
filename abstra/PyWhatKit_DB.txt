@@ -1,0 +1,10 @@
+Date: 7/1/2024
+Time: 12:31
+Phone Number: +919989858071
+Message: Hello, this is an automated message!
+--------------------
+Date: 7/1/2024
+Time: 12:35
+Phone Number: +919989858071
+Message: This message is scheduled!
+--------------------
